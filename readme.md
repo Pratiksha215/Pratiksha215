@@ -30,4 +30,14 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pratiksha215"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pratiksha215" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pratiksha215&show_icons=true&locale=en" alt="pratiksha215" /></p>
+
+
+<p align="center">
+<table>
+<tr>
+<td><img height="70%" src="https://github-readme-stats.vercel.app/api?username=pratiksha215&show_icons=true&theme=aura"/>
+<td><img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksha215&theme=aura&hide=CSS,HTML&langs_count=3"/>
+</tr>
+</table>
+<a href="http://www.github.com/pratiksha215"><img src="https://activity-graph.herokuapp.com/graph?username=pratiksha215&bg_color=1c1917&color=10b981&line=a855f7&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
