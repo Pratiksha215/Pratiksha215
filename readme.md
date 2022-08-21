@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pratiksha</h1>
-<h3 align="center">I share knowledge through my code, articles💙️.</h3>
+<h3 align="center">I share knowledge through my code and articles💙️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha215&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha215" /> </p>
 
