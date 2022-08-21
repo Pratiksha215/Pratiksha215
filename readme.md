@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratiksha215&label=Profile%20views&color=0e75b6&style=flat" alt="pratiksha215" /> </p>
 
-- 👨‍💻 I’m currently working currently with one of the largest investment bank
+- 👨‍💻 I’m currently working with one of the largest investment bank
 
 - 🌱 I’m exploring **Javascript frameworks**
 
